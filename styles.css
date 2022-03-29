@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+body {
+  background-color: #e9d8a6;
+}
+
+.title {
+  font-size: 50px;
+  margin: 20px 20px;
+  color: #005f73;
+}
+
+.unordered-list {
+  list-style: none;
+}
+
+.lasagna-link {
+  padding: 10px 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.burger-link {
+  padding: 10px 10px;
+}
+.pizza-link {
+  padding: 10px 10px;
+}
